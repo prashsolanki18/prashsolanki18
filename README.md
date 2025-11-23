@@ -47,22 +47,33 @@ I specialize in architecting scalable applications using **Clean Architecture** 
 **Social Networking & Accessibility**
 * A dating application specifically designed for **visually impaired users**.
 * **Key Tech:** Flutter, Sendbird Chat SDK, Accessibility Services (TalkBack/VoiceOver).
-* **Role:** Lead Developer.
 * [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play">](https://play.google.com/store/apps/details?id=au.com.cliqconnection) [<img src="https://img.shields.io/badge/App_Store-Download-black?style=flat&logo=apple">](https://apps.apple.com/in/app/cliq-connection/id6469481194)
+
+#### 🚑 [Dr at Doorstep](https://play.google.com/store/apps/details?id=com.dratdoorstep)
+**Healthcare & Telemedicine**
+* A comprehensive home healthcare solution allowing users to book doctors, nurses, and caregivers for home visits.
+* **Features:** Integrated lab tests, X-rays, ECG at home, and an e-pharmacy for medicine delivery.
+* **Key Tech:** Flutter, Maps Integration, Real-time Booking.
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play">](https://play.google.com/store/apps/details?id=com.dratdoorstep)
+
+#### 🎼 [Orpheus Sheet Music Reader](https://play.google.com/store/apps/details?id=com.gramercy.orpheus)
+**Music Utility**
+* A minimalist digital sheet music manager designed for musicians to replace paper binders.
+* **Features:** Dropbox synchronization, annotation tools, set lists, and Bluetooth foot pedal support for hands-free page turning.
+* **Key Tech:** PDF Rendering, Dropbox API, Bluetooth Integration.
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play">](https://play.google.com/store/apps/details?id=com.gramercy.orpheus)
+
+#### 📅 [Vendorly](https://play.google.com/store/apps/details?id=com.vendorly)
+**Event Management & Marketplace**
+* A streamlined platform for browsing and booking top-tier event vendors with real-time availability checks.
+* **Features:** Digital contract signing, secure payment processing, financial tracking for vendors, and an integrated review system.
+* **Key Tech:** Flutter, Digital Contracts, Payment Gateway.
+* [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play">](https://play.google.com/store/apps/details?id=com.vendorly)
 
 #### 🎮 [Connect COD](https://play.google.com/store/apps/details?id=com.connect.cod)
 **Gaming & Networking**
-* Multiplayer networking app for Battle Royale and Warzone communities. Features complex player matching and game scheduling.
-* **Key Tech:** Flutter, Complex Logic Algorithms, Real-time Database.
-* **Role:** Lead Developer.
+* Multiplayer networking app for Battle Royale communities with complex player matching and scheduling.
 * [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play">](https://play.google.com/store/apps/details?id=com.connect.cod) [<img src="https://img.shields.io/badge/App_Store-Download-black?style=flat&logo=apple">](https://apps.apple.com/in/app/connect-cod/id6463194944)
-
-#### 🎓 [Fyule Video Lab](https://play.google.com/store/search?q=fyule+video+lab)
-**EdTech & Media**
-* A virtual STEAM learning hub for students with interactive video creation tools and gamified rewards.
-* **Key Tech:** Flutter, Video Processing, Gamification Logic.
-* **Role:** Lead Developer.
-* [<img src="https://img.shields.io/badge/Google_Play-Download-green?style=flat&logo=google-play">](https://play.google.com/store/search?q=fyule+video+lab)
 
 ---
 
