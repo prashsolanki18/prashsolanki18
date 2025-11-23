@@ -66,15 +66,6 @@ I specialize in architecting scalable applications using **Clean Architecture** 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashsolanki18&show_icons=true&theme=radical&hide_border=true" alt="Prashant's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashsolanki18&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 <p align="center">
   <i>Let's connect and build something amazing together!</i>
 </p>
